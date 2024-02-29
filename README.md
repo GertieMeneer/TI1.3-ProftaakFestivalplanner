@@ -12,5 +12,4 @@ Project created by me, https://github.com/Maersel, and https://github.com/Stefsk
 6.9 (nice) / 10
 
 ## Date
-Year 1, Period 3
-April 5, 2023
+Year 1, Period 3 | April 5, 2023
