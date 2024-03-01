@@ -13,3 +13,5 @@ Project created by me, https://github.com/Maersel, and https://github.com/Stefsk
 
 ## Date
 Year 1, Period 3 | April 5, 2023
+
+![image](https://github.com/GertieMeneer/TI1.3-ProftaakFestivalplanner/blob/main/festivalplanner.png)
